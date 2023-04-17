@@ -1,0 +1,61 @@
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.exe.config
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csprojResolveAssemblyReference.cache
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.LoginForm.resources
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.Properties.Resources.resources
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.GenerateResource.Cache
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.exe
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.pdb
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.exe
+C:\Users\Студент1\Documents\Visual Studio 2012\Projects\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.pdb
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.exe.config
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.exe
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.pdb
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.AssemblyReference.cache
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.SuggestedBindingRedirects.cache
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.LoginForm.resources
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.Properties.Resources.resources
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.GenerateResource.cache
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.CoreCompileInputs.cache
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.exe
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.pdb
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\MySql.Data.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\Google.Protobuf.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\ZstdNet.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\System.Memory.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\System.Buffers.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\MySql.Data.xml
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.exe.config
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.CopyComplete
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.Регистрация.resources
+C:\Users\devzor\source\repos\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.MainForm.resources
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.exe.config
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.exe
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BdBagautdinovAidar.pdb
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\MySql.Data.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\Google.Protobuf.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\ZstdNet.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\BouncyCastle.Crypto.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\System.Memory.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\System.Buffers.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\K4os.Compression.LZ4.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\K4os.Hash.xxHash.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\System.Numerics.Vectors.dll
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\bin\Debug\MySql.Data.xml
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.AssemblyReference.cache
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.SuggestedBindingRedirects.cache
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.exe.config
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.LoginForm.resources
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.MainForm.resources
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.Properties.Resources.resources
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.Регистрация.resources
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.GenerateResource.cache
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.CoreCompileInputs.cache
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.csproj.CopyComplete
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.exe
+F:\BazaDannixAidar\BdBagautdinovAidar\BdBagautdinovAidar\obj\Debug\BdBagautdinovAidar.pdb
